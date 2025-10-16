@@ -1,0 +1,27 @@
+<!doctype html>
+
+<html>
+
+  <head>
+
+    <title>Homework 4 Image 1</title>
+
+  </head>
+
+  <body>
+
+    <h1>Homework 4 Image 1</h1>
+
+    <p>I feel like music is a universal hobby that everyone is able to enjoy whether you're from Greece, to Thailand, or Brazil. Across the globe we all have our own music that is intertwined with our culture that makes music an important part of our identity. Not only is important to many people's identity but it is also something many people enjoy and find relaxing. Me personally, I'm always listening to music when I'n traveling between classes or work so I tried to find an image on Creative Commons that represented the peaceful feeling I have when listening to music. I gathered many different images of instruments or music related items so I could incorporate many different cultures or musical elements into my collage. My main inspiration for this piece was Hannah Hoch, since I really enjoyed her ability to use asbtract shapes to create structures and realistic art.  :</p>
+
+    <img src="music.jpg" alt="Homework 4 Image 1" width="600">
+
+    <br><br>
+
+    <a href="index.html">Back to Home</a>
+    <br>
+     <a href="hw4image2">HW 4 Image</a>
+
+  </body>
+
+</html>
